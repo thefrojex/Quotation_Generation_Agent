@@ -1,0 +1,76 @@
+{
+  "id": "ae5e006e-205d-46eb-b086-ccaf3bb41697",
+  "created_at": "2026-05-15T15:53:47.455711+00:00",
+  "model": "gpt-5.1",
+  "estimated_input_tokens": 2963,
+  "used_price_sheet_ids": [
+    "0336204b-b52b-484b-af25-d09fac1913fc"
+  ],
+  "customer_email_text": "Dear Sir\r\nKindly send Quotation of Plug gauge, Plug cum depth gauge and  Plain Plug gauge\r\nMOQ of each gauge is 2 nos",
+  "raw_model_output": "{\n  \"quotation\": {\n    \"title\": \"Provisional Quotation \u2013 Plug Gauges\",\n    \"currency\": \"INR\",\n    \"total\": \"2,420.00\",\n    \"notes\": [\n      \"Prices are taken only from the active price sheet: NEW PRICE LIST 01-04-2025.pdf.\",\n      \"Quoted item is a Plain Plug Gauge GO/NOT GO; other requested gauges are not identifiable in the extracted price list.\",\n      \"Taxes, packing, freight, delivery, and payment terms are not specified in the source sheet and are therefore excluded from this provisional quotation.\",\n      \"MOQ requested by customer is 2 nos for each gauge; this has been applied to the quoted line.\",\n      \"This quotation is provisional due to missing technical details and incomplete price list extraction; final pricing may change after receiving full specifications.\"\n    ]\n  },\n  \"line_items\": [\n    {\n      \"item\": \"Plain Plug Gauge GO/NOT GO (Above 10mm up to & including 25mm)\",\n      \"quantity\": \"2\",\n      \"unit_price\": \"605.00\",\n      \"line_total\": \"1,210.00\",\n      \"source\": \"NEW PRICE LIST 01-04-2025.pdf, page 15\"\n    },\n    {\n      \"item\": \"Plain Plug Gauge GO/NOT GO (Above 10mm up to & including 25mm)\",\n      \"quantity\": \"2\",\n      \"unit_price\": \"605.00\",\n      \"line_total\": \"1,210.00\",\n      \"source\": \"NEW PRICE LIST 01-04-2025.pdf, page 15\"\n    }\n  ],\n  \"missing_required_fields\": [\n    \"Exact type/specification for 'Plug gauge' (air plug, plain plug, threaded plug, size range, GO/NO GO, tolerance class, standard)\",\n    \"Exact type/specification for 'Plug cum depth gauge' (design, measuring depth, diameter range, standard, whether analog/digital, any brand/model reference)\",\n    \"Exact type/specification for any other 'Plain Plug gauge' beyond the one size range identified in the price list (diameter, length, standard, fit class)\",\n    \"Nominal diameters for all gauges requested\",\n    \"Tolerance / fit (e.g., H7, H8, custom limits) for the plug gauges\",\n    \"GO/NO GO configuration required for each gauge type\",\n    \"Material requirements (steel, carbide, any coating or special material)\",\n    \"Any requirement for calibration certificate (e.g., NABL) and format\",\n    \"Required quantity per size if more than one size is needed for each gauge type\",\n    \"Delivery terms, delivery location, and preferred delivery time\",\n    \"Payment terms and quotation validity (not provided in price sheet)\"\n  ],\n  \"assumptions\": [\n    \"Currency is INR as indicated in the price sheet.\",\n    \"For the purpose of a conservative provisional quote, the 'Plain Plug gauge' requested by the customer is mapped to the available item: 'Plain Plug Gauge GO/NOT GO, Above 10mm up to & including 25mm' from page 15 of the price sheet.\",\n    \"MOQ of 2 nos per gauge requested by customer is applied; hence quantity 2 is used for each line of plain plug gauge.\",\n    \"Only the size band 'Above 10mm up to & including 25mm' is used because this is the only plain plug gauge size range present in the extracted data.\",\n    \"No additional cost for calibration, certificates, special tolerances, or coatings is included because these are not specified in the extracted price list.\",\n    \"Taxes, packing, forwarding, freight, and insurance are excluded, as the price sheet extraction does not provide this information.\",\n    \"Lead time is not committed because the source document does not specify it.\",\n    \"The customer\u2019s requested items 'Plug gauge' and 'Plug cum depth gauge' are not directly mappable to any specific priced item in the extracted data, so they are not priced in this provisional quotation.\"\n  ],\n  \"clarification_questions\": [\n    \"For the 'Plug gauge': do you require air plug gauges, plain plug gauges, or threaded plug gauges? Please specify type, nominal size(s), and whether GO/NO GO is required.\",\n    \"For the 'Plug cum depth gauge': please provide details such as measuring depth, diameter range, type (mechanical/digital), and any reference standard or existing model you use.\",\n    \"For the 'Plain Plug gauge': please confirm the nominal diameter(s) you need and whether they fall within the 10\u201325 mm range, or if you also need other size ranges.\",\n    \"What tolerance / fit (e.g., H7, H8, custom limits) is required on each plug gauge?\",\n    \"Do you need separate GO and NO GO members, or a combined GO/NO GO plug for each size?\",\n    \"Do you require steel or carbide construction for these gauges? Any specific brand or material standard?\",\n    \"Is a calibration certificate (e.g., NABL) required with the gauges? If yes, for which items and in what format?\",\n    \"Are all gauges required in the same size, or multiple different sizes sharing the same MOQ of 2 nos per size?\",\n    \"What is the delivery location and any specific delivery schedule or deadline we should consider?\",\n    \"Do you have any preferred payment terms and quotation validity period so that we can finalize a complete commercial offer?\"\n  ]\n}",
+  "result": {
+    "quotation": {
+      "title": "Provisional Quotation \u2013 Plug Gauges",
+      "currency": "INR",
+      "total": "2,420.00",
+      "notes": [
+        "Prices are taken only from the active price sheet: NEW PRICE LIST 01-04-2025.pdf.",
+        "Quoted item is a Plain Plug Gauge GO/NOT GO; other requested gauges are not identifiable in the extracted price list.",
+        "Taxes, packing, freight, delivery, and payment terms are not specified in the source sheet and are therefore excluded from this provisional quotation.",
+        "MOQ requested by customer is 2 nos for each gauge; this has been applied to the quoted line.",
+        "This quotation is provisional due to missing technical details and incomplete price list extraction; final pricing may change after receiving full specifications."
+      ]
+    },
+    "line_items": [
+      {
+        "item": "Plain Plug Gauge GO/NOT GO (Above 10mm up to & including 25mm)",
+        "quantity": "2",
+        "unit_price": "605.00",
+        "line_total": "1,210.00",
+        "source": "NEW PRICE LIST 01-04-2025.pdf, page 15"
+      },
+      {
+        "item": "Plain Plug Gauge GO/NOT GO (Above 10mm up to & including 25mm)",
+        "quantity": "2",
+        "unit_price": "605.00",
+        "line_total": "1,210.00",
+        "source": "NEW PRICE LIST 01-04-2025.pdf, page 15"
+      }
+    ],
+    "missing_required_fields": [
+      "Exact type/specification for 'Plug gauge' (air plug, plain plug, threaded plug, size range, GO/NO GO, tolerance class, standard)",
+      "Exact type/specification for 'Plug cum depth gauge' (design, measuring depth, diameter range, standard, whether analog/digital, any brand/model reference)",
+      "Exact type/specification for any other 'Plain Plug gauge' beyond the one size range identified in the price list (diameter, length, standard, fit class)",
+      "Nominal diameters for all gauges requested",
+      "Tolerance / fit (e.g., H7, H8, custom limits) for the plug gauges",
+      "GO/NO GO configuration required for each gauge type",
+      "Material requirements (steel, carbide, any coating or special material)",
+      "Any requirement for calibration certificate (e.g., NABL) and format",
+      "Required quantity per size if more than one size is needed for each gauge type",
+      "Delivery terms, delivery location, and preferred delivery time",
+      "Payment terms and quotation validity (not provided in price sheet)"
+    ],
+    "assumptions": [
+      "Currency is INR as indicated in the price sheet.",
+      "For the purpose of a conservative provisional quote, the 'Plain Plug gauge' requested by the customer is mapped to the available item: 'Plain Plug Gauge GO/NOT GO, Above 10mm up to & including 25mm' from page 15 of the price sheet.",
+      "MOQ of 2 nos per gauge requested by customer is applied; hence quantity 2 is used for each line of plain plug gauge.",
+      "Only the size band 'Above 10mm up to & including 25mm' is used because this is the only plain plug gauge size range present in the extracted data.",
+      "No additional cost for calibration, certificates, special tolerances, or coatings is included because these are not specified in the extracted price list.",
+      "Taxes, packing, forwarding, freight, and insurance are excluded, as the price sheet extraction does not provide this information.",
+      "Lead time is not committed because the source document does not specify it.",
+      "The customer\u2019s requested items 'Plug gauge' and 'Plug cum depth gauge' are not directly mappable to any specific priced item in the extracted data, so they are not priced in this provisional quotation."
+    ],
+    "clarification_questions": [
+      "For the 'Plug gauge': do you require air plug gauges, plain plug gauges, or threaded plug gauges? Please specify type, nominal size(s), and whether GO/NO GO is required.",
+      "For the 'Plug cum depth gauge': please provide details such as measuring depth, diameter range, type (mechanical/digital), and any reference standard or existing model you use.",
+      "For the 'Plain Plug gauge': please confirm the nominal diameter(s) you need and whether they fall within the 10\u201325 mm range, or if you also need other size ranges.",
+      "What tolerance / fit (e.g., H7, H8, custom limits) is required on each plug gauge?",
+      "Do you need separate GO and NO GO members, or a combined GO/NO GO plug for each size?",
+      "Do you require steel or carbide construction for these gauges? Any specific brand or material standard?",
+      "Is a calibration certificate (e.g., NABL) required with the gauges? If yes, for which items and in what format?",
+      "Are all gauges required in the same size, or multiple different sizes sharing the same MOQ of 2 nos per size?",
+      "What is the delivery location and any specific delivery schedule or deadline we should consider?",
+      "Do you have any preferred payment terms and quotation validity period so that we can finalize a complete commercial offer?"
+    ]
+  }
+}

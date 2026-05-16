@@ -1,0 +1,743 @@
+{
+  "id": "0336204b-b52b-484b-af25-d09fac1913fc",
+  "filename": "NEW PRICE LIST 01-04-2025.pdf",
+  "uploaded_at": "2026-05-15T15:19:59.803176+00:00",
+  "text": "[Page 1]\n\n\n[Page 2]\n\n\n[Page 3]\n\n\n[Page 4]\n\n\n[Page 5]\n\n\n[Page 6]\n\n\n[Page 7]\n\n\n[Page 8]\n\n\n[Page 9]\n\n\n[Page 10]\n\n\n[Page 11]\n\n\n[Page 12]\n\n\n[Page 13]\n\n\n[Page 14]\n\n\n[Page 15]\n\n\n[Page 16]\n\n\n[Page 17]\n\n\n[Page 18]\n\n\n[Page 19]\n\n\n[Page 20]\n\n\n[Page 21]\n\n\n[Page 22]",
+  "pages": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "text": ""
+    },
+    {
+      "page": 6,
+      "text": ""
+    },
+    {
+      "page": 7,
+      "text": ""
+    },
+    {
+      "page": 8,
+      "text": ""
+    },
+    {
+      "page": 9,
+      "text": ""
+    },
+    {
+      "page": 10,
+      "text": ""
+    },
+    {
+      "page": 11,
+      "text": ""
+    },
+    {
+      "page": 12,
+      "text": ""
+    },
+    {
+      "page": 13,
+      "text": ""
+    },
+    {
+      "page": 14,
+      "text": ""
+    },
+    {
+      "page": 15,
+      "text": ""
+    },
+    {
+      "page": 16,
+      "text": ""
+    },
+    {
+      "page": 17,
+      "text": ""
+    },
+    {
+      "page": 18,
+      "text": ""
+    },
+    {
+      "page": 19,
+      "text": ""
+    },
+    {
+      "page": 20,
+      "text": ""
+    },
+    {
+      "page": 21,
+      "text": ""
+    },
+    {
+      "page": 22,
+      "text": ""
+    }
+  ],
+  "extraction_mode": "llm_extract_51",
+  "extraction_status": "parsed",
+  "structured_prices": {
+    "document_summary": "Partial manual structured extraction from the Swaroop Autotechnologies Pvt. Ltd. price list effective 01-04-2025. Covers air gauge units, digital gauge units, selected spare parts, air plug/ring/caliper gauges, master gauges, plain plug gauges, width gauges, and snap gauges. Source extraction is incomplete but sufficient for partial quotation generation.",
+    "products": [
+      {
+        "item": "Swaroop Mod-1 Air Gauge Unit",
+        "material": "",
+        "specifications": [
+          "For Dia. 6mm to 200mm",
+          "Along with Twin Filter, Regulator, Monogauge Assembly",
+          "Range: +/-0.040 mm",
+          "Least Count: 0.001mm"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "24,650.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "2"
+      },
+      {
+        "item": "Swaroop Mod-1A Air Gauge Unit",
+        "material": "",
+        "specifications": [
+          "For Dia. 6mm to 200mm",
+          "Along with Twin Filter, Regulator, Monogauge Assembly",
+          "Range: +/-0.080 mm",
+          "Least Count: 0.002mm"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "26,550.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "2"
+      },
+      {
+        "item": "Swaroop Mod-1B Air Gauge Unit",
+        "material": "",
+        "specifications": [
+          "For Dia. 6mm to 50mm",
+          "Along with Twin Filter, Regulator, Monogauge Assembly",
+          "Range: +/-0.020 mm",
+          "Least Count: 0.0005mm"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "29,800.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "2"
+      },
+      {
+        "item": "Swaroop Mod-2 Air Gauge Unit",
+        "material": "",
+        "specifications": [
+          "For Dia. 1.5mm to 6mm",
+          "Along with Twin Filter, Regulator, Monogauge Assembly",
+          "Range: +/-0.020 mm",
+          "Least Count: 0.001mm"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "26,650.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "2"
+      },
+      {
+        "item": "Swaroop Bellow Type Air Gauge Unit",
+        "material": "",
+        "specifications": [
+          "Along with Twin Filter, Regulator, Monogauge Assembly",
+          "Range: +/-0.040 mm",
+          "Least Count: 0.001mm"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "30,450.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "2"
+      },
+      {
+        "item": "Swaroop Electronic Microprocessor Based Column Gauge",
+        "material": "",
+        "specifications": [
+          "Single Channel"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "31,650.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR",
+          "Price shown is for Single Channel"
+        ],
+        "source_page": "2"
+      },
+      {
+        "item": "Swaroop Air/Electronic Converter (AECM-1)",
+        "material": "",
+        "specifications": [
+          "For Dia. 6mm-200mm",
+          "Along with Twin Filter, Regulator, Monogauge Assembly"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "31,375.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "2"
+      },
+      {
+        "item": "Swaroop Electronic Axial Probe with 2 Mtr. Cable",
+        "material": "",
+        "specifications": [],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "14,600.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "2"
+      },
+      {
+        "item": "Digital Gauge Unit - One Parameter with RS 232 Output Relay",
+        "material": "",
+        "specifications": [
+          "1 Parameter",
+          "With RS 232 Output Relay"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "26,630.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR",
+          "DRO Type Single Parameter requires One AECM"
+        ],
+        "source_page": "3"
+      },
+      {
+        "item": "Digital Gauge Unit - Two Parameters with RS 232 Output Relay",
+        "material": "",
+        "specifications": [
+          "2 Parameters",
+          "With RS 232 Output Relay"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "46,400.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR",
+          "DRO Type Two Parameter requires Two AECM"
+        ],
+        "source_page": "3"
+      },
+      {
+        "item": "Digital Gauge Unit - Four Parameters with RS 232 Output Relay",
+        "material": "",
+        "specifications": [
+          "4 Parameters",
+          "With RS 232 Output Relay"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "81,600.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "3"
+      },
+      {
+        "item": "Piezo Based Digital Unit - One Parameter",
+        "material": "",
+        "specifications": [
+          "1 Parameter",
+          "With RS 232 Output Relay",
+          "With Precision Filter"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "48,500.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "4"
+      },
+      {
+        "item": "Piezo Based Digital Unit - Two Parameters",
+        "material": "",
+        "specifications": [
+          "2 Parameters",
+          "With RS 232 Output Relay",
+          "With Precision Filter"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "93,650.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "4"
+      },
+      {
+        "item": "Piezo Based Digital Unit - Four Parameters",
+        "material": "",
+        "specifications": [
+          "4 Parameters",
+          "With RS 232 Output Relay",
+          "With Precision Filter"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "1,23,800.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "4"
+      },
+      {
+        "item": "Spare Part - Main indicator for 0.001mm/0.002mm Air Gauge Unit",
+        "material": "",
+        "specifications": [
+          "For 0.001mm / 0.002mm Air Gauge Unit"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "5,180.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "6"
+      },
+      {
+        "item": "Spare Part - Control Valve (Festo Valve)",
+        "material": "",
+        "specifications": [],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "890.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "6"
+      },
+      {
+        "item": "2-Jet Standard Air Plug Gauge (Thro Bore / Blind Bore) - Medium Series",
+        "material": "Steel",
+        "specifications": [
+          "Above 6mm up to & including 13mm",
+          "INCH: 0.24 - 0.51"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "1,430.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "9"
+      },
+      {
+        "item": "2-Jet Standard Air Plug Gauge (Thro Bore / Blind Bore) - Large Series",
+        "material": "Steel",
+        "specifications": [
+          "Above 100mm up to & including 110mm",
+          "INCH: 3.94 - 4.33"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "3,550.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "9"
+      },
+      {
+        "item": "Setting Ring for Air Plug Gauges - Medium Series",
+        "material": "Steel",
+        "specifications": [
+          "Above 13mm up to & including 35mm",
+          "INCH: 0.51 - 1.38"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "1,360.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "9"
+      },
+      {
+        "item": "2-Jet Standard Air Ring Gauge (Central Jet) - Medium Series",
+        "material": "Steel",
+        "specifications": [
+          "Above 10mm up to & including 38mm",
+          "INCH: 0.39 - 1.38"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "3,760.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "10"
+      },
+      {
+        "item": "D/E Setting Plug for Air Ring Gauge - Medium Series",
+        "material": "Steel",
+        "specifications": [
+          "Above 10mm up to & including 38mm",
+          "INCH: 0.39 - 1.38"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "1,080.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "10"
+      },
+      {
+        "item": "2-Jet Standard Air Caliper Gauge (Central Jet) - Medium Series",
+        "material": "Steel",
+        "specifications": [
+          "Above 25mm up to & including 50mm",
+          "INCH: 0.98 - 1.97"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "9,035.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "10"
+      },
+      {
+        "item": "Air Gauge Accessory - Right Angle Attachment for Air Plug Gauge",
+        "material": "",
+        "specifications": [
+          "Price Dependency Upon Size"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "870.00 (min.)"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "12"
+      },
+      {
+        "item": "Master Ring Gauge",
+        "material": "Steel",
+        "specifications": [
+          "Above 13mm up to & including 35mm",
+          "INCH: 0.51 - 1.38"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "1,360.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "13"
+      },
+      {
+        "item": "Master Setting Disc (OD Master)",
+        "material": "Steel",
+        "specifications": [
+          "Above 40mm up to & including 65mm",
+          "INCH: 1.58 - 2.56"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "940.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "13"
+      },
+      {
+        "item": "Plain Plug Gauge GO/NOT GO",
+        "material": "Steel",
+        "specifications": [
+          "Above 10mm up to & including 25mm",
+          "INCH: 0.39 - 0.98"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "605.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "15"
+      },
+      {
+        "item": "Plain Plug Gauge GO/NOT GO (Large)",
+        "material": "Steel",
+        "specifications": [
+          "Above 150mm up to & including 170mm",
+          "GO and NO GO priced separately"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "GO",
+            "unit_price": "2,860.00"
+          },
+          {
+            "quantity": "NO GO",
+            "unit_price": "2,860.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "15"
+      },
+      {
+        "item": "Width Gauge (Steel)",
+        "material": "Steel",
+        "specifications": [
+          "Range: 20mm - 25mm"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "1,240.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "16"
+      },
+      {
+        "item": "Width Gauge (Carbide)",
+        "material": "Carbide",
+        "specifications": [
+          "Range: 20mm - 25mm"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "3,415.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR"
+        ],
+        "source_page": "16"
+      },
+      {
+        "item": "Steel Snap Gauge S/E",
+        "material": "Steel",
+        "specifications": [
+          "Range: 20mm - 25mm"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "605.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR",
+          "In case of Groove Gauges, add Rs. 200 extra"
+        ],
+        "source_page": "17"
+      },
+      {
+        "item": "Carbide Snap Gauge S/E",
+        "material": "Carbide",
+        "specifications": [
+          "Range: 20mm - 25mm"
+        ],
+        "quantity_breaks": [
+          {
+            "quantity": "1",
+            "unit_price": "1,675.00"
+          }
+        ],
+        "moq": "",
+        "lead_time": "",
+        "notes": [
+          "Currency: INR",
+          "In case of Groove Gauges, add Rs. 300 extra"
+        ],
+        "source_page": "17"
+      }
+    ],
+    "global_terms": [
+      "Currency: INR",
+      "This is a partial manual import from Claude output and does not cover the complete source document."
+    ],
+    "missing_or_unclear_sections": [
+      "Remaining pages and line items from the original PDF are not yet manually imported.",
+      "MOQ, lead time, delivery terms, payment terms, and validity are largely missing in the partial import.",
+      "Many gauge, fixture, AMC, calibration, and accessory entries from later pages may still be absent.",
+      "Use this partial extraction only for provisional quotation generation when requested items match imported products."
+    ],
+    "llm_input_truncated": false
+  },
+  "warnings": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "7e9b4bf1-fb9e-495a-8a8d-0048944bcf2b",
+  "created_at": "2026-05-15T15:20:46.340009+00:00",
+  "model": "gpt-5.1",
+  "estimated_input_tokens": 5286,
+  "used_price_sheet_ids": [
+    "0336204b-b52b-484b-af25-d09fac1913fc"
+  ],
+  "customer_email_text": "requirements are in the image",
+  "result": {
+    "quotation": {
+      "title": "Draft quotation",
+      "currency": "Unknown",
+      "total": "Model returned non-JSON",
+      "notes": [
+        "{\n  \"quotation\": {\n    \"title\": \"PRELIMINARY QUOTE \u2013 PENDING READABLE REQUIREMENTS & PRICE DETAILS\",\n    \"currency\": \"\",\n    \"total\": \"0.00\",\n    \"notes\": [\n      \"No prices or product data could be read from 'NEW PRICE LIST 01-04-2025.pdf' (all pages extracted as empty/blank).\",\n      \"The customer requirements image ('WhatsApp Image 2026-05-15 at 20.42.40.jpeg') is embedded but not readable in the provided text stream, so specific part details, quantities, and specs are unknown.\",\n      \"Because there are no usable price entries and no clear design/requirement details, no monetary quotation can be generated at this stage.\",\n      \"This is a placeholder response only; pricing, line items, and totals will be updated once a readable requirement sheet and a non-redacted price list are available.\"\n    ]\n  },\n  \"line_items\": [],\n  \"missing_required_fields\": [\n    \"Clear, readable version of the customer requirement image (part names, descriptions, dimensions, material, finish, tolerances, any special requirements).\",\n    \"Bill of materials or list of SKUs/part numbers to be quoted.\",\n    \"Quantities per line item.\",\n    \"Any reference to the internal product codes that match items in 'NEW PRICE LIST 01-04-2025.pdf'.\",\n    \"Currency for the quotation (e.g., EUR, USD, GBP).\",\n    \"Commercial terms (Incoterms, payment terms, required lead time).\",\n    \"A non-redacted or non-empty extraction of 'NEW PRICE LIST 01-04-2025.pdf' that includes unit prices and item descriptions.\"\n  ],\n  \"assumptions\": [\n    \"No pricing assumptions have been made because the active price sheet extraction contains no product or price data.\",\n    \"No technical or design assumptions have been made because the design/requirement image content is not machine-readable in the current context.\"\n  },\n  \"clarification_questions\": [\n    \"Can you please upload or paste a clearer version of the requirements (e.g., PDF, image, or text) showing each item to be quoted, including quantities, materials, finishes, and any special notes?\",\n    \"Can you confirm the currency you want the quote in (e.g., EUR, USD, GBP)?\",\n    \"Do you have internal part numbers or SKUs that correspond to items in 'NEW PRICE LIST 01-04-2025.pdf'? If yes, please list them with required quantities.\",\n    \"Could you provide a version of the 'NEW PRICE LIST 01-04-2025.pdf' (or another price sheet) where the actual prices and product descriptions are visible so I can reference exact unit prices and page numbers?\",\n    \"Are there any specific delivery terms, target lead times, or preferred Incoterms that should apply to this quotation?\"\n  ]\n}"
+      ]
+    },
+    "line_items": [],
+    "missing_required_fields": [
+      "Model output format invalid"
+    ],
+    "assumptions": [],
+    "clarification_questions": []
+  }
+}
