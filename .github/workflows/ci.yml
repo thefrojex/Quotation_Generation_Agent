@@ -18,7 +18,9 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          # Backend.py uses backslashes inside f-string expressions (PEP 701),
+          # which requires Python 3.12+.
+          python-version: "3.12"
 
       - name: Install backend dependencies
         run: |
