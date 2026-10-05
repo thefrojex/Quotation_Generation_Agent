@@ -1,2 +1,4 @@
 .env
-Backend/storage/
+storage/
+__pycache__/
+*.pyc
