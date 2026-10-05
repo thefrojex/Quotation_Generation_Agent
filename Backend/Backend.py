@@ -184,7 +184,8 @@ def build_system_prompt(agent_rules: str) -> str:
         "Return ONLY valid JSON with this exact top-level shape:\n"
         "{\n"
         "  \"quotation\": {\"title\": string, \"currency\": string, \"total\": string, \"notes\": [string]},\n"
-        "  \"line_items\": [{\"item\": string, \"quantity\": string, \"unit_price\": string, \"line_total\": string, \"source\": string}],\n"
+        "  \"line_items\": [{\"item\": string, \"quantity\": string, \"unit_price\": string, "
+        "\"line_total\": string, \"source\": string}],\n"
         "  \"missing_required_fields\": [string],\n"
         "  \"assumptions\": [string],\n"
         "  \"clarification_questions\": [string]\n"
@@ -293,7 +294,7 @@ async def upload_price_sheets(
                 structured_prices = extract_structured_with_llm(upload.filename, extracted_text, pages)
             except Exception as exc:
                 extraction_status = "fallback_to_local"
-                warnings.append(f"LLM extraction failed: {str(exc)}")
+                warnings.append(f"LLM extraction failed: {exc!s}")
 
         (sheet_dir / "parsed.json").write_text(
             json.dumps(

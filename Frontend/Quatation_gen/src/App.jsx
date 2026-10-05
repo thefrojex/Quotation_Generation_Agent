@@ -81,7 +81,7 @@ function App() {
   };
 
   const onDeleteSheet = async (sheetId, filename) => {
-    const confirmed = window.confirm(`Delete price sheet \"${filename}\"?`);
+    const confirmed = window.confirm(`Delete price sheet "${filename}"?`);
     if (!confirmed) {
       return;
     }

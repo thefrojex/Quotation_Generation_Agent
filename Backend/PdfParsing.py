@@ -1,7 +1,6 @@
 import base64
 import os
 from pathlib import Path
-from typing import Optional
 
 from openai import OpenAI
 
@@ -9,7 +8,7 @@ from openai import OpenAI
 def analyze_media_with_openai(
     file_path: str,
     prompt: str,
-    model: Optional[str] = None,
+    model: str | None = None,
     detail: str = "auto"
 ) -> str:
     """
@@ -121,12 +120,7 @@ def _analyze_pdf(
     detail: str
 ) -> str:
     """Analyze a PDF file using OpenAI vision API."""
-    
-    try:
-        from pypdf import PdfReader
-    except ImportError:
-        raise ImportError("pypdf is required for PDF analysis. Install with: pip install pypdf")
-    
+
     try:
         from pdf2image import convert_from_path
     except ImportError:
